@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Data on the 400 zip codes to which Gavin Newsom is giving 40% of the COVID-19 vaccine
 
-You can use the [editor on GitHub](https://github.com/24AheadDotCom/Newsom-zip-code-vaccine-tiers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+See the ["special" zip codes here](https://24aheaddotcom.github.io/Newsom-zip-code-vaccine-tiers/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Caveats
 
-### Markdown
+1. See the issues discussed at https://github.com/censusreporter/censusreporter/
+2. Since the Census uses ZCTAs and they don't match up entirely to zip codes, I'm not clear if the Census or censusreporter adjusts their data when requesting the info for a zip.
+3. I tried to put this together as quickly as possible and I might have missed something; I'll double-check that later.
+4. Some of the data at map.healthyplacesindex.org spans zip codes; it's not clear if Newsom intends it for the whole zip or just the "unhealthy" part (it's easy to see him giving a $10 billion no-bid contract to a campaign contributor to build a tool to determine if someone is in the "healthy" or "unhealthy" part of a zip code).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### More information
 
-```markdown
-Syntax highlighted code block
+For general information on Newsom's tiers, see the [Covid-19 activism page](https://24ahead.com/s/covid19). That has FOIAs I've filed and a much simpler plan that will save lives: **just vaxing by ICU risk**, not zip codes.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/24AheadDotCom/Newsom-zip-code-vaccine-tiers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
